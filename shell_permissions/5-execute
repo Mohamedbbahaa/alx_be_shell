@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chmod 744 hello
-ls -l
+sudo chmod 764 hello
